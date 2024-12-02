@@ -4,14 +4,15 @@
 Introduction
 ------------
 
-Implementation of DenseCBAM: An efficient deep learning model integrating DenseNet169 and CBAM for enhanced feature extraction and attention in pediatric pneumonia detection using chest X-ray images. Achieves state-of-the-art accuracy while maintaining computational efficiency for clinical applications.
-This is the source code for our submitted paper #DENSECBAM: AN ADVANCED CNN-BASED MODEL FOR PEDIATRIC PNEUMONIA CLASSIFICATION IN CXR IMAGING#, which is submitted to International Journal of Imaging Systems and Technology, 2024
+**DENSECBAM: AN ADVANCED CNN-BASED MODEL FOR PEDIATRIC PNEUMONIA CLASSIFICATION IN CXR IMAGING**
+
+This repository contains the source code for the paper submitted to the *International Journal of Imaging Systems and Technology, 2024*. The project focuses on developing a Dense Convolutional Block Attention Model (DenseCBAM) for efficient pediatric pneumonia classification in chest X-ray (CXR) imaging.
 
 Architecture
 ------------
 The architecture.png denotes the architecture of the DenseCBAM
 
-# Installation
+### Installation
 
 * Clone this repo
 
@@ -20,13 +21,13 @@ git clone https://github.com/KingsleyAmoafo13/KingsleyAmoafo13-DenseCBAM-Pneumon
 ```
 * Install all dependenies
 
-# Data Preparation
+### Data Preparation
 
 Download the dataset from https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 
 
-# Train
+### Train
 
 ```
 python train.py
@@ -34,7 +35,7 @@ python train.py
 
 The log files are stored in the log folder
 
-# Test
+### Test
 
 ```
 python test.py
