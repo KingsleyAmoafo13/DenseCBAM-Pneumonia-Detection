@@ -17,7 +17,7 @@ The architecture.png denotes the architecture of the DenseCBAM
 * Clone this repo
 
 ```
-git clone https://github.com/KingsleyAmoafo13/KingsleyAmoafo13-DenseCBAM-Pneumonia-Detection
+git clone https://github.com/KingsleyAmoafo13/DenseCBAM-Pneumonia-Detection
 ```
 * Install all dependenies
 
