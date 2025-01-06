@@ -6,7 +6,7 @@ Introduction
 
 **DENSECBAM: AN ADVANCED CNN-BASED MODEL FOR PEDIATRIC PNEUMONIA CLASSIFICATION IN CXR IMAGING**
 
-This repository contains the source code for the paper submitted to the *International Journal of Imaging Systems and Technology, 2024*. The project focuses on developing a Dense Convolutional Block Attention Model (DenseCBAM) for efficient pediatric pneumonia classification in chest X-ray (CXR) imaging.
+The project focuses on developing a Dense Convolutional Block Attention Model (DenseCBAM) for efficient pediatric pneumonia classification in chest X-ray (CXR) imaging.
 
 Architecture
 ------------
